@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Square">
+    <EnumTmp>Square</EnumTmp>
+    <StartPoint>
+      <X>881</X>
+      <Y>275</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>881</X>
+      <Y>275</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+  <Figure xsi:type="Square">
+    <EnumTmp>Square</EnumTmp>
+    <StartPoint>
+      <X>885</X>
+      <Y>245</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>885</X>
+      <Y>245</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+  <Figure xsi:type="Square">
+    <EnumTmp>Square</EnumTmp>
+    <StartPoint>
+      <X>561</X>
+      <Y>427</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>560</X>
+      <Y>427</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+</ArrayOfFigure>

@@ -1,0 +1,31 @@
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\Server.exe.config
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\Server.exe
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\Server.pdb
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\laba1_oop.pdb
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\bin\Debug\laba1_oop.exe.config
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.StartForm.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.exe
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.pdb
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\Server\obj\Debug\Server.frmMainServer.resources
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.frmMainServer.resources
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.StartForm.resources
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.exe
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.pdb
+C:\Users\1\Downloads\course_work\Server\bin\Debug\Server.exe.config
+C:\Users\1\Downloads\course_work\Server\bin\Debug\Server.exe
+C:\Users\1\Downloads\course_work\Server\bin\Debug\Server.pdb
+C:\Users\1\Downloads\course_work\Server\bin\Debug\laba1_oop.exe
+C:\Users\1\Downloads\course_work\Server\bin\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\course_work\Server\bin\Debug\laba1_oop.exe.config
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\course_work\Server\obj\Debug\Server.csproj.CopyComplete

@@ -1,0 +1,38 @@
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\bin\Debug\net6.0\ServerPaint.exe
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\bin\Debug\net6.0\ServerPaint.deps.json
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\bin\Debug\net6.0\ServerPaint.runtimeconfig.json
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\bin\Debug\net6.0\ServerPaint.dll
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\bin\Debug\net6.0\ServerPaint.pdb
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfo.cs
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.dll
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\refint\ServerPaint.dll
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.pdb
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ServerPaint.genruntimeconfig.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\ServerPaint\obj\Debug\net6.0\ref\ServerPaint.dll
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfo.cs
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.dll
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ref\ServerPaint.dll
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.pdb
+C:\Users\1\Downloads\course_work\ServerPaint\bin\Debug\net6.0\ServerPaint.exe
+C:\Users\1\Downloads\course_work\ServerPaint\bin\Debug\net6.0\ServerPaint.deps.json
+C:\Users\1\Downloads\course_work\ServerPaint\bin\Debug\net6.0\ServerPaint.runtimeconfig.json
+C:\Users\1\Downloads\course_work\ServerPaint\bin\Debug\net6.0\ServerPaint.dll
+C:\Users\1\Downloads\course_work\ServerPaint\bin\Debug\net6.0\ServerPaint.pdb
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\refint\ServerPaint.dll
+C:\Users\1\Downloads\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.genruntimeconfig.cache
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfoInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.AssemblyInfo.cs
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.dll
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ref\ServerPaint.dll
+C:\Компьютер\Универ 2.0\4 сем\курсач\course_work\ServerPaint\obj\Debug\net6.0\ServerPaint.pdb

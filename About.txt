@@ -1,0 +1,8 @@
+The main task is to create a graphical editor with the possibility of remote drawing. Remote drawing is carried out using TCP sockets.
+The following features are available in the program:
+- drawing geometric shapes;
+– choice of color and thickness of the figure;
+– saving an image, opening previous images;
+– archiving and unpacking the selected image;
+– display of drawn objects for all clients connected to the server.
+The software tool provides the ability to connect a client to a server through an IP address and port. It is possible to draw an unlimited number of clients on one canvas at the same time.

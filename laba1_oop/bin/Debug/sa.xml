@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Square">
+    <EnumTmp>Square</EnumTmp>
+    <StartPoint>
+      <X>544</X>
+      <Y>286</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>544</X>
+      <Y>286</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <EnumTmp>Circle</EnumTmp>
+    <StartPoint>
+      <X>193</X>
+      <Y>62</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>359</X>
+      <Y>93</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <EnumTmp>Circle</EnumTmp>
+    <StartPoint>
+      <X>359</X>
+      <Y>93</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>490</X>
+      <Y>161</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <EnumTmp>Circle</EnumTmp>
+    <StartPoint>
+      <X>464</X>
+      <Y>112</Y>
+    </StartPoint>
+    <EndPoint>
+      <X>489</X>
+      <Y>130</Y>
+    </EndPoint>
+    <colorInt>-16777216</colorInt>
+    <width>1</width>
+  </Figure>
+</ArrayOfFigure>

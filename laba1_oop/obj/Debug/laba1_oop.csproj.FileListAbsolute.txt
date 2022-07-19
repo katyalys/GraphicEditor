@@ -1,0 +1,60 @@
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.GenerateResource.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.exe.config
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\bin\Debug\laba1_oop.pdb
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\laba1_oop\laba1_oop\obj\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe.config
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.GenerateResource.cache
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.exe
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form2.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe.config
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.pdb
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form2.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.GenerateResource.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.exe
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.pdb
+C:\Компьютер\Универ 2.0\4 сем\OOП\OOP_LAB1-main (1)\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.frmStart.resources
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe.config
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.exe
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\bin\Debug\laba1_oop.pdb
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Form2.resources
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.frmStart.resources
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\LABA1_OOP.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.exe
+\\Mac\Home\Downloads\CourseWorkKatya\OOP_LAB1-main\laba1_oop\obj\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\LABA1_OOP.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\LABA1_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.Form1.resources
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.Form2.resources
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.Properties.Resources.resources
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.frmStart.resources
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\LABA1_OOP.csproj.GenerateResource.cache
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\LABA1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.exe
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\course_work\laba1_oop\bin\Debug\laba1_oop.exe.config
+C:\Users\1\Downloads\course_work\laba1_oop\bin\Debug\laba1_oop.exe
+C:\Users\1\Downloads\course_work\laba1_oop\bin\Debug\laba1_oop.pdb
+C:\Users\1\Downloads\course_work\laba1_oop\obj\Debug\laba1_oop.About.resources
